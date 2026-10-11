@@ -7,11 +7,11 @@ A custom iPhone camera app built with **Swift and AVFoundation**, featuring ultr
 <!-- Replace the filenames below with your uploaded screenshot filenames. -->
 
 <p align="center">
-  <img src="screenshots/home.png" width="250" alt="Camera app interface" />
+  <img src="screenshots/home.jpeg" width="250" alt="Camera app interface" />
   &nbsp;&nbsp;
-  <img src="screenshots/telephoto.png" width="250" alt="2x telephoto camera interface" />
+  <img src="screenshots/telephoto.jpeg" width="250" alt="2x telephoto camera interface" />
   &nbsp;&nbsp;
-  <img src="screenshots/photo-saved.png" width="250" alt="Photo saved confirmation" />
+  <img src="screenshots/photo-saved.jpeg" width="250" alt="Photo saved confirmation" />
 </p>
 
 ## Features
